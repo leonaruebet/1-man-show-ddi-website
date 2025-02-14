@@ -2,6 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
+import { FAQ } from "@/components/ui/faq";
 
 export default function Home() {
   return (
@@ -88,6 +89,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Add FAQ section here */}
+      <FAQ />
 
       {/* Trusted By Section */}
       <section className="py-20 px-4 text-center">
