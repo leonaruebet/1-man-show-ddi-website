@@ -11,7 +11,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <span className="text-2xl font-bold text-red-500">DDI65</span>
+              <span className="text-2xl font-bold text-red-500">DDI Alumni 65</span>
             </div>
             <div className="hidden md:block">
               <div className="flex items-center space-x-8">
@@ -47,16 +47,13 @@ export default function Home() {
             </span>
           </div>
           <h1 className="text-6xl md:text-7xl font-bold mb-6">
-            Transform Your Future With
-            <span className="gradient-text block mt-2">DDI65 Community</span>
+            Actually we 🙉
+            <span className="gradient-text block mt-2">DDI Alumni 65</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
             Connect, collaborate, and create the future of digital innovation together with the most ambitious students of DDI65.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Button className="primary-button">
-              Get Started
-            </Button>
             <Button className="secondary-button">
               Learn More →
             </Button>
@@ -99,12 +96,8 @@ export default function Home() {
 
       {/* Trusted By Section */}
       <section className="py-20 px-4 text-center">
-        <p className="text-gray-500 mb-8">Supported by Faculty Members</p>
+        <p className="text-gray-500 mb-8">Supported by Former COO of Starters ⚡️ </p>
         <div className="flex justify-center items-center space-x-12 opacity-50">
-          <span className="text-2xl">🎓</span>
-          <span className="text-2xl">📚</span>
-          <span className="text-2xl">💻</span>
-          <span className="text-2xl">🚀</span>
         </div>
       </section>
     </main>
