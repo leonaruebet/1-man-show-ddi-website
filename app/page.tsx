@@ -11,19 +11,14 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <span className="text-2xl font-bold text-red-500">DDI Alumni 65</span>
+              <span className="text-2xl font-bold text-red-500">🙉</span>
             </div>
             <div className="hidden md:block">
               <div className="flex items-center space-x-8">
-                <a href="#about" className="nav-item">About</a>
-                <a href="#features" className="nav-item">Features</a>
-                <a href="#resources" className="nav-item">Resources</a>
+
                 <span className="new-badge">
-                  New
+                  DDI Alumni 65
                 </span>
-                <Button className="primary-button">
-                  Join Now
-                </Button>
               </div>
             </div>
           </div>
